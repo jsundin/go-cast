@@ -10,3 +10,6 @@ See <https://github.com/go-vgo/robotgo> for proper instructions.
 ```
 sudo apt install libx11-dev xorg-dev libxtst-dev libxcb-xkb-dev x11-xkb-utils libx11-xcb-dev libxkbcommon-x11-dev libxkbcommon-dev
 ```
+
+# Example
+![example](example.png)
